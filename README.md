@@ -9,7 +9,7 @@
 ### App Walk-though
 
 
-<img src="https://imgur.com/gallery/eYSYe6M" width=200><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/eYSYe6M"  ><a href="//imgur.com/a/eYSYe6M">Flashcard</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 
 ## Required
