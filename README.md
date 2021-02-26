@@ -4,7 +4,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Allows someone to practice what my favorite comic is
+Allows someone to practice what my favorite comic is
 
 ### App Walk-though
 
