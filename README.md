@@ -33,7 +33,7 @@ Allows a person to add and cancel new cards created.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/mNBGxWj.gif" width=200><br>
+<img src="https://imgur.com/a/mNBGxWj" width=200><br>
 
 
 
